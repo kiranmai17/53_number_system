@@ -2,7 +2,7 @@
 DATE:12TH NOV 2022
 DAY: MONDAY
 TOPIC: NUMBER SYSTEM
-AUTHOR: RAMA BHARGAVI
+AUTHOR: KIRANMAI
 '''
 from decimal import Decimal as d
 h=d(0.7+0.2)
